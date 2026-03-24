@@ -1,4 +1,4 @@
-# 🎓 Student Management System (JDBC-Based)
+# 🎓 Student Management System (JDBC - Console Based)
 
 A **console-based Student Management System** built using **Java, JDBC, and MySQL**, designed with separate modules for **Admin and Student operations**.
 The application provides secure login, account management, and complete CRUD functionality with a well-structured modular design.
